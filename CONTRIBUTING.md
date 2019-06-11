@@ -15,6 +15,12 @@ start contributing to the codebase.
 `mvn clean verify`
 5. Push your branch and open a PR 
 
+## Coding standard
+
+The coding standards used in the project are described in the [parent pom project](https://github.com/envimate/envimate-opensource-parent) all of the java projects inherit. 
+
+These are reinforced using checkstyle, spotbugs.
+
 ## Code reviews
 
 All submissions, including submissions by project members, require review. We
