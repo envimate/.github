@@ -1,8 +1,6 @@
 Fixes #...
 
-Summary of changes
+## Summary of changes
 
 - ...
 - ...
-
-
