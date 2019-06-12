@@ -21,6 +21,8 @@ The coding standards used in the project are described in the [parent pom projec
 
 These are reinforced using checkstyle, spotbugs.
 
+We are in favor of having end-to-end tests that cover the functionality of the API, rather that low-level, sometimes too diverse UnitTests. When submitting a PR with a new feature, ensure you have a "proof that it works" a.k.a an end-to-end test.
+
 ## Code reviews
 
 All submissions, including submissions by project members, require review. We
